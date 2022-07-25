@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /
+
+# Uncomment below section to change Swagger UI path
+#springdoc:
+#  swagger-ui:
+#    path: /api/
